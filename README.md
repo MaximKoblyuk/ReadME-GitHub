@@ -6,10 +6,12 @@ First clone repo  by command:
 
 
 git clone https://github.com/.....
+
 2. Create new feature branch from main branch with command:
 
 
 git branch feature/<task_name>
+
 3. Then checkout to your branch with command: 
 
 
